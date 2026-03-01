@@ -1,0 +1,10 @@
+langgraph
+langchain_community 
+langchain-tavily 
+langchain_experimental 
+langchain_openai
+pandas 
+langchain
+ openpyxl
+ db_utils
+ langchain-google-genai
